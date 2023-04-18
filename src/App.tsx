@@ -11,8 +11,8 @@ function App() {
       {/* {<Babel />} */}
       {/* <Template/> */}
       {/* <Test /> */}
-      {/* <StringIntDemo /> */}
-      <Style_Test />
+      <StringIntDemo />
+      {/* <Style_Test /> */}
     </div>
   );
 }
